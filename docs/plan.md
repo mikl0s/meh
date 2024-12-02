@@ -8,13 +8,13 @@
 
 **Summary:** Initialize the repository and set up the initial project structure.
 
-- [ ] **Story 1.1: Adapt `.gitignore` to exclude `venv` and unnecessary files**
+- [x] **Story 1.1: Adapt `.gitignore` to exclude `venv` and unnecessary files**
     *Testing Focus:* Check that `venv` and other unwanted files are correctly ignored.
-- [ ] **Story 1.2: Generate professional logo for the project**
+- [x] **Story 1.2: Generate professional logo for the project**
     *Testing Focus:* Ensure the logo is appropriate and visually appealing.
-- [ ] **Story 1.3: Update `README.md` with modern design, icons, badges, and logo**
+- [x] **Story 1.3: Update `README.md` with modern design, icons, badges, and logo**
     *Testing Focus:* Confirm that `README.md` displays correctly with all enhancements.
-- [ ] **Story 1.4: Commit and push everything with tag `0.0.1`**
+- [x] **Story 1.4: Commit and push everything with tag `0.0.1`**
     *Testing Focus:* Verify that the commit everything from `git status` is properly tagged and pushed to the repository.
 
 ---
